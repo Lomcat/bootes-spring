@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* I Overview of Spring Framework
-	* 1 Getting Started with Spring
-	* 2 Introduction to the Spring Framework
+* [I Overview of Spring Framework](PartI/00-I.Overview-of-Spring-Framework.md)
+	* [1 Getting Started with Spring](PartI/01-1.Getting-Started-with-Spring.md)
+	* [2 Introduction to the Spring Framework](PartI/02-2.Introduction-to-the-Spring-Framework.md)
 		* 2.1 Dependency Injection and Inversion of Control
 		* 2.2 Modules
 			* 2.2.1 Core Container
