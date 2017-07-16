@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [I Overview of Spring Framework](PartI/00-I.Overview-of-Spring-Framework.md)
-	* [1 Getting Started with Spring](PartI/01-1.Getting-Started-with-Spring.md)
-	* [2 Introduction to the Spring Framework](PartI/02-2.Introduction-to-the-Spring-Framework.md)
-		* [2.1 Dependency Injection and Inversion of Control](PartI/03-2.1.Dependency-Injection-and-Inversion-of-Control.md)
+* [I Spring 框架概述](PartI/00-I.Overview-of-Spring-Framework.md)
+	* [1 Spring 入门](PartI/01-1.Getting-Started-with-Spring.md)
+	* [2 Spring 框架简介](PartI/02-2.Introduction-to-the-Spring-Framework.md)
+		* [2.1 依赖注入和控制反转](PartI/03-2.1.Dependency-Injection-and-Inversion-of-Control.md)
 		* [2.2 Modules](PartI/04-2.2.Modules.md)
 			* [2.2.1 Core Container](PartI/05-2.2.1.Core-Container.md)
 			* [2.2.2 AOP and Instrumentation](PartI/06-2.2.2.AOP-and-Instrumentation.md)
