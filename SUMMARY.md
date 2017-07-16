@@ -33,7 +33,7 @@
     * [3.2.1. Configuration metadata](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-metadata)
     * [3.2.2. Instantiating a container](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-instantiation)
       * [Composing XML-based configuration metadata](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-xml-import)
-      * [3.2.3. Using the container](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-client)
+    * [3.2.3. Using the container](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-client)
 
 [3.3. Bean overview](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-definition)
 
