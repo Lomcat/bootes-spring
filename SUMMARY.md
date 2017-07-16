@@ -34,7 +34,6 @@
     * [3.2.2. Instantiating a container](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-instantiation)
       * [Composing XML-based configuration metadata](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-xml-import)
     * [3.2.3. Using the container](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-client)
-
 [3.3. Bean overview](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-definition)
 
 [3.3.1. Naming beans](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-beanname)
@@ -94,6 +93,7 @@
 [Lookup method injection](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-lookup-method-injection)
 
 [Arbitrary method replacement](http://docs.spring.io/spring/docs/5.0.0.M4/spring-framework-reference/htmlsingle/#beans-factory-arbitrary-method-replacement)
+
 
 
 
