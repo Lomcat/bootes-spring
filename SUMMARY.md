@@ -25,6 +25,4 @@
         * [Not Using Commons Logging](#2.3.2.1)
         * [Using SLF4J](#2.3.2.2)
         * [Using Log4J](#2.3.2.3)
-
-
-
+* [II. Core Technologies](#2)
