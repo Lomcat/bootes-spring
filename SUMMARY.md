@@ -1,6 +1,6 @@
 # Summary
 
-* [Spring 参考文档](README.md)
+* [Spring 框架参考文档](README.md)
 * [I Spring 框架概述](PartI/0000-I-Overview-of-Spring-Framework.md)
 	* [1 Spring 入门](PartI/0001-1-Getting-Started-with-Spring.md)
 	* [2 Spring 框架简介](PartI/0002-2-Introduction-to-the-Spring-Framework.md)
