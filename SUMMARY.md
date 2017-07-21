@@ -21,9 +21,10 @@
 				* [Ivy 依赖管理](PartI/0012-2.3.1-Dependency-Management-and-Naming-Conventions.md)
 				* [Zip 分发文件](PartI/0012-2.3.1-Dependency-Management-and-Naming-Conventions.md)
 			* [2.3.2 日志记录](PartI/0013-2.3.2-Logging.md)
-				* [Not Using Commons Logging](PartI/0013-2.3.2-Logging.md)
-				* [Using SLF4J](PartI/0013-2.3.2-Logging.md)
-				* [Using Log4J](PartI/0013-2.3.2-Logging.md)
+				* [禁用 Commons Logging](PartI/0013-2.3.2-Logging.md)
+				* [使用 SLF4J](PartI/0013-2.3.2-Logging.md)
+				* [使用 Log4J](PartI/0013-2.3.2-Logging.md)
+				* [带有原生 JCL 实现的运行时容器](PartI/0013-2.3.2-Logging.md)
 * II Core Technologies
 	* 3 The IoC container
 		* 3.1 Introduction to the Spring IoC container and beans
