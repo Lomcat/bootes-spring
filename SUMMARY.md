@@ -25,11 +25,11 @@
 				* [使用 SLF4J](PartI/0013-2.3.2-Logging.md)
 				* [使用 Log4J](PartI/0013-2.3.2-Logging.md)
 				* [带有原生 JCL 实现的运行时容器](PartI/0013-2.3.2-Logging.md)
-* II Core Technologies
-	* 3 The IoC container
-		* 3.1 Introduction to the Spring IoC container and beans
-		* 3.2 Container overview
-			* 3.2.1 Configuration metadata
+* II [核心技术](PartII/0014-II-Core-Technologies.md)
+	* [3 IoC 容器](PartII/0015-3-The-IoC-container.md)
+		* [3.1 Spring IoC 容器和 Bean 介绍](PartII/0016-3.1-Introduction-to-the-Spring-IoC-container-and-beans.md)
+		* [3.2 容器概述](PartII/0017-3.2-Container-overview.md)
+			* [3.2.1 配置元数据](PartII/0018-3.2.1-Configuration-metadata.md)
 			* 3.2.2 Instantiating a container
 				* Composing XML-based configuration metadata
 			* 3.2.3 Using the container
