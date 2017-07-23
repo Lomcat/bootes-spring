@@ -30,10 +30,10 @@
 		* [3.1 Spring IoC 容器和 Bean 介绍](PartII/0016-3.1-Introduction-to-the-Spring-IoC-container-and-beans.md)
 		* [3.2 容器概述](PartII/0017-3.2-Container-overview.md)
 			* [3.2.1 配置元数据](PartII/0018-3.2.1-Configuration-metadata.md)
-			* 3.2.2 Instantiating a container
-				* Composing XML-based configuration metadata
-			* 3.2.3 Using the container
-		* 3.3 Bean overview
+			* [3.2.2 容器的实例化](PartII/0019-3.2.2-Instantiating-a-container.md)
+				* [编写 XML 配置文件](PartII/0019-3.2.2-Instantiating-a-container.md)
+			* [3.2.3 容器的使用](PartII/0020-3.2.3-Using-the-container.md)
+		* [3.3 Bean 概述](PartII/0021-3.3-Bean-overview.md)
 			* 3.3.1 Naming beans
 				* Aliasing a bean outside the bean definition
 			* 3.3.2 Instantiating beans
