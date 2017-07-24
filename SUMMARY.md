@@ -34,7 +34,7 @@
 				* [编写 XML 配置文件](PartII/0019-3.2.2-Instantiating-a-container.md)
 			* [3.2.3 容器的使用](PartII/0020-3.2.3-Using-the-container.md)
 		* [3.3 Bean 概述](PartII/0021-3.3-Bean-overview.md)
-			* 3.3.1 Naming beans
+			* [3.3.1 Bean 的命名](PartII/0022-3.3.1-Naming-beans.md)
 				* Aliasing a bean outside the bean definition
 			* 3.3.2 Instantiating beans
 				* Instantiation with a constructor
